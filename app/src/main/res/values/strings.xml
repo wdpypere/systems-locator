@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HPC Systems Locator</string>
+    <string name="edit_message">Enter a host</string>
+    <string name="button_send">Search</string>
+    <string name="bylabel">Search by: </string>
+    <string name="networklabel">Network: </string>
+
+    <string-array name="nw_array">
+        <item>os</item>
+        <item>ipmi</item>
+        <item>ugent.be</item>
+    </string-array>
+
+    <string-array name="lookup_array">
+        <item>hostname</item>
+        <item>serial</item>
+    </string-array>
+
+</resources>
